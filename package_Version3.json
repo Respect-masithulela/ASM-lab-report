@@ -1,0 +1,13 @@
+{
+  "name": "asm-lab-report",
+  "version": "1.0.0",
+  "description": "ASM Lab Mine Ventilation Simulation Software - Technical Report Generator",
+  "main": "generate_report.js",
+  "scripts": {
+    "generate": "node generate_report.js",
+    "start": "node generate_report.js"
+  },
+  "dependencies": {
+    "docx": "^8.12.0"
+  }
+}
